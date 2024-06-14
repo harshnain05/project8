@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+* {
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+section {
+    height: 100vh;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    align-items: center;
+    align-content: center;
+
+}
+
+.container {
+    max-width: 1140px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: -12px;
+    margin-right: -12px;
+}
+.header{
+    font-family: "DM Sans", sans-serif;
+font-size: 42px;
+line-height: 52px;
+letter-spacing: -0.4000000059604645px;
+text-align: center;
+color: #1E0E62;
+margin-left: 350px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 1170px;
+height: 140px;
+top: 219px;
+left: 115px;
+gap: 0px;
+border-radius: 0px 0px 0px 0px;
+opacity: 0px;
+}
+.middle{
+    width: 230px;
+    height: 50px;
+    padding: 0px 0px 0px 0px;
+    top: 910px;
+    left: 436px;
+margin: 30px 30px 30px 30px;
+    gap: 0px;
+    opacity: 0px;
+color: #1E0E62;
+font-family: "DM Sans", sans-serif;
+font-size: 18px;
+font-weight: 500;
+line-height: 26px;
+text-align: center;
+border-radius: 100px 100px 100px 100px;
+    }
+
+    .middleg{
+        width: 230px;
+    height: 50px;
+    padding: 0px 0px 0px 0px;
+    align-items: center;
+    margin: 30px 30px 30px 30px;
+    opacity: 0px;
+    background: #25DAC5;
+color: #FFFFFF;
+font-family: "DM Sans", sans-serif;
+font-size: 18px;
+font-weight: 500;
+line-height: 26px;
+text-align: center;
+border-radius: 100px 100px 100px 100px;}
+
+.lable{
+    color: #A1A1B0;
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+}
+
+.para{
+font-family: "DM Sans", sans-serif;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+width: 193px;
+height: 59px;
+margin-left: 68px;
+margin-top: 10px;
+margin-bottom: -5px;
+color:#1E0E62
+}
+tr, td{
+    border: 1px solid black;
+}
+.number{
+    color: #1E0E62;
+    text-align: center;
+font-family: DM Sans;
+font-size: 58px;
+line-height: 70px;
+letter-spacing: -1px;
+text-align: center;
+
+}
+.title{
+    font-family: DM Sans;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    
+}
+.svg{
+    text-align: center;
+}
+.svg1{
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+}
+.dollar{font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    width: 248px;
+    height: 1px;
+    top: 406.4px;
+    left: 505px;
+    gap: 0px;
+    opacity: 0px;
+}
+thead{
+    background-color:#F5F5F6;}
